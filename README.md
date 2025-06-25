@@ -189,7 +189,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 - **Security Reports**: (https://github.com/TarruckWheeler)
 - **Linkedin**: (https://www.linkedin.com/in/tarruck/)
 - **GPG Key**: [[0xYOURKEYID](https://keyserver.ubuntu.com)]
-- **GPG Key**: (https://github.com/TarruckWheeler)
 
 ---
 
