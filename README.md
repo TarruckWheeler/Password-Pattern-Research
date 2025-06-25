@@ -185,10 +185,11 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 📞 Contact
 
-- **Research Inquiries**: research@yourdomain.com
-- **Security Reports**: security@yourdomain.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **GPG Key**: [0xYOURKEYID](https://keyserver.ubuntu.com)
+- **Research Inquiries**: Tarruck@stanford.edu
+- **Security Reports**: (https://github.com/TarruckWheeler)
+- **Linkedin**: (https://www.linkedin.com/in/tarruck/)
+- **GPG Key**: [[0xYOURKEYID](https://keyserver.ubuntu.com)]
+- **GPG Key**: (https://github.com/TarruckWheeler)
 
 ---
 
